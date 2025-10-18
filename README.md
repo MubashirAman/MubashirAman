@@ -1,4 +1,4 @@
-> 👋 Hi — I’m **Mubashir Aman**,
+# 👋 Hi — I’m **Mubashir Aman**,
 >  a passionate computer science student and budding system-programming developer from Pakistan. I build clean, efficient code in C++ and explore how systems tick under the hood.
 >
 > 💻 My GitHub showcases projects ranging from console-based games (like Tetris, Snake & Ladder) to deeper system-programming experiments and HTML front-end builds. I thrive on turning concepts into runnable code, debugging complexity, and learning by building.
