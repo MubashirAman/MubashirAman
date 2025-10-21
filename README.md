@@ -1,25 +1,25 @@
-<h1 align="center">👋 Hi — I'm <span style="color:#00F7FF;">Mubashir Aman</span></h1>
+<h1 align="center">👋 Hi — I'm <span style="color:#00FFFF;">Mubashir Aman</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=550&lines=BSCS+Student+%7C+System+Programming+Enthusiast;C%2B%2B+Lover+and+Low-Level+Thinker;Learning+%26+Building+with+Passion!;Welcome+to+my+Digital+Space+💻" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=24&center=true&vCenter=true&width=600&lines=System+Programming+Enthusiast;C%2B%2B+Developer+%26+Tech+Explorer;Building+Ideas+into+Executable+Reality;Passionate+about+Low-Level+Systems;Always+Learning+and+Improving+💡" alt="Typing Animation" />
 </p>
 
 ---
 
-### 🧩 About Me  
-💡 I’m a **Computer Science student** and a **budding system-programming developer** from Pakistan.  
-I build **clean, efficient C++ code** and love exploring how systems work under the hood.  
+### 💻 About Me  
+I’m a **Computer Science student** and an aspiring **System Programming Developer** from Pakistan.  
+I write **efficient, performance-oriented C++ code** and love uncovering how computers truly work under the hood.  
 
-🧠 My projects range from **console-based games** (like *Tetris*, *Snake & Ladder*)  
-to **low-level programming experiments** and **HTML front-end builds**.  
-I thrive on **turning concepts into reality**, debugging complexity, and **learning by building**.  
+🧠 My GitHub is a reflection of my curiosity — featuring projects like **console-based games** (Tetris, Snake & Ladder), **front-end experiments**, and **system-level prototypes**.  
+I enjoy **turning abstract concepts into working systems**, **debugging complexity**, and **learning through building**.
 
-⚙️ I enjoy working with:
-- 🧩 **Object-Oriented Design**
+⚙️ I’m deeply interested in:
+- 🧩 **Object-Oriented Design & Clean Architecture**
 - ⚡ **Data Structures & Algorithms**
-- 🧱 **Memory Management & System Tools**
+- 🧱 **Memory Management, Optimization & OS Concepts**
+- 🌐 **Efficient Problem-Solving and Logical Thinking**
 
-📚 Always exploring **new technologies**, expanding my understanding of performance, and mastering **modern design patterns**.
+📘 I believe in *learning relentlessly* — expanding my understanding of systems, performance, and modern software design patterns.
 
 ---
 
@@ -33,7 +33,7 @@ I thrive on **turning concepts into reality**, debugging complexity, and **learn
 
 ---
 
-### 🌐 Connect with Me  
+### 🌐 Connect With Me  
 <p align="center">
   <a href="mailto:muzaamilfbns@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -45,6 +45,7 @@ I thrive on **turning concepts into reality**, debugging complexity, and **learn
 
 ---
 
+### 📊 GitHub Insights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MubashirAman&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MubashirAman&layout=compact&theme=tokyonight&hide_border=true" height="150" />
@@ -53,5 +54,5 @@ I thrive on **turning concepts into reality**, debugging complexity, and **learn
 ---
 
 <p align="center">
-  <i>✨ “Code is like poetry — when written with passion, it inspires.” ✨</i>
+  <i>✨ “Every great system starts with a single line of code — and the courage to build something extraordinary.” ✨</i>
 </p>
